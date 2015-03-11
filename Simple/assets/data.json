@@ -1,0 +1,17 @@
+﻿{
+	"params":{
+		"width":"640",
+		"height":"480",
+		"video":"abc.mp4",
+		"autoplay":"false",
+		"videoImage":"abc.png",
+		"assetsPath":"assets"
+	},
+	"config":{
+	},
+	"copyright":{
+		"info":"© 2015 devtrip video",
+		"visitdata":"visit DevTrip website",
+		"visiturl":"http://www.devtrip.com"
+	}
+}

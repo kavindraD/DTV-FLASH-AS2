@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<config id="0">
+	<params>
+		<width>640</width>
+		<height>480</height>
+		<video>abc.mp4</video>
+		<autoplay>false</autoplay>
+		<videoImage>abc.png</videoImage>
+		<assetsPath>assets</assetsPath>
+	</params>
+	<config>
+	</config>
+	<copyright>
+		<info><![CDATA[© 2015 devtrip video]]></info>
+		<visitdata><![CDATA[visit DevTrip website]]></visitdata>
+		<visiturl><![CDATA[http://www.devtrip.com]]></visiturl>
+	</copyright>
+</config>
