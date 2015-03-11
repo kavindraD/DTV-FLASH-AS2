@@ -1,4 +1,4 @@
-# DTV-HTML5
+# DTV-FLASH-AS2
 
 HTML5 video player powerd by **DevTrip Video** developers and its' contributers
 
