@@ -12,8 +12,8 @@ It provide following packages for rich usability of devtrip video player compone
 
 1. [Simple](#simple)
 2. [Event Handler](#event-handler)
-3. [Simple HTML5 Fallback](#simple-html5-Fallback)
-4. [Event Handler HTML5 Fallback](#event-handler-html5-fallback)
+3. [Simple with HTML5 Fallback](#simple-with-html5-Fallback)
+4. [Event Handler with HTML5 Fallback](#event-handler-with-html5-fallback)
 
 
 #### Simple
