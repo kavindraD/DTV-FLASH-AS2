@@ -24,10 +24,10 @@ This package contains simple devtrip video player **player.swf** and its' use ca
 
 >`TBD - Need to implement supporting events for Flash player`
 
-#### Simple HTML5 Fallback
+#### Simple with HTML5 Fallback
 
 >`TBD - Need to implement HTML5 support for the devices not supporting Flash player`
 
-#### Event Handler HTML5 Fallback
+#### Event Handler with HTML5 Fallback
 
 >`TBD - Need to implement supporting events for Flash player along with HTML5 support for the devices not supporting Flash player`
