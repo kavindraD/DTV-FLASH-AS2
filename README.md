@@ -1,6 +1,8 @@
-# DTV-FLASH-AS2 [Need independent contributors and Investors for TBD section.]
+# DTV-FLASH-AS2 
 
-Flash AS 2 (AVM1) video player powerd by **DevTrip Video** developers and its' contributers
+Flash AS 2 (AVM1) video player powerd by **DevTrip Video** developers and its' contributers.
+
+>`[Need independent contributors and Investors for TBD section.]`
 
 ## Goal
 
